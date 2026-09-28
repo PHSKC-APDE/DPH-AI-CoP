@@ -1,13 +1,19 @@
-We are an animal research team and engaged community members in a training about aardvarks where they learned and then got to meet some. We then collected opinions from the participants. I will upload their responses as an excel book, and would like you to add a column classifying each as positive or negative
 
-Copilot said:
-Sounds good — once you upload the Excel file, I can add a new column that classifies each participant response as positive or negative.
 
-Please go ahead and upload the workbook whenever you're ready!
+We are an animal research team. Recently we had a public engagement where community members learned about, and then got to meet, aardvarks. Afterwards, we asked participants to provide their opinions on aardvarks. We saved these responses into an excel book and want to analyze them. I will upload the excel book and then ask questions.
 
-You said:
 
-260929_aardvark_all_opinions
+Great — feel free to upload the Excel workbook whenever you're ready.
+Once it's uploaded, I can help you:
+• Explore the data
+• Clean and organize responses
+• Run sentiment analysis
+• Identify themes in what participants said
+• Generate charts or summaries
+• Answer specific questions you have about the aardvark opinions
+Just send the file, and we’ll dig in together!Provide your feedback on BizChat
+
+You said: 260929_aardvark_all_opinions
 
 
 Copilot said:
@@ -127,7 +133,7 @@ def classify_sentiment(text):
     text_lower = str(text).lower()
     pos = any(word in text_lower for word in positive_words)
     neg = any(word in text_lower for word in negative_words)
-    
+
     if pos and not neg:
         return 'positive'
     elif neg and not pos:
