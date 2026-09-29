@@ -1,0 +1,20 @@
+1
+We are an animal research team. Recently we had a public engagement where community members learned about, and then got to meet, aardvarks. Afterwards, we asked participants to provide their opinions on aardvarks. We saved these responses into an excel book and want to analyze them. I will upload the excel book and then ask questions.
+
+
+2
+first, divide the responses into two columns, one of positive, and one of negative, responses
+
+
+3
+export this as a csv file with 2 columns, one of the original quote and the other as an indicator of posiive or negative
+
+
+4
+can you share the python (and any other) code you used to generate the sentiment analysis?
+
+
+
+5
+show me a table of results of running this code on the data
+

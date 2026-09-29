@@ -96,7 +96,7 @@ Just let me know what you’d like next!
 
 
 You said:
-can you share the pythong (and any other) code you used to generate the sentiment analysis?
+can you share the python (and any other) code you used to generate the sentiment analysis?
 Copilot said:
 Absolutely — here is the full Python code I used to generate the sentiment analysis and create the CSV file.
 
